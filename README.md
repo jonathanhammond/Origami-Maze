@@ -16,7 +16,6 @@ Enjoy responsibly and build something awesome! (it would be nice if you would em
 
 ![iPhone 6 Screenshot](./Screenshots/iPhone6.png "iPhone 6 Screenshot")
 ![iPhone 6 Landscape Screenshot](./Screenshots/iPhone6Landscape.png "iPhone 6 Landscape Screenshot")
-![iPad Screenshot](./Screenshots/iPad.png "iPad Screenshot")
 
 ## How to Use
 - Clone this repo
