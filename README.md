@@ -6,9 +6,7 @@ More example found at http://www.justaddmusicmedia.com/work/prototypes/
 
 Responsive collision detection example with 3D orientation controls for the prototyping tool Origami (by Facebook)
 
-My goal, by opensourcing this project, is to make it easier and faster for designers to start with a project that requires them to use the native iOS Tab Bar.
-
-Enjoy responsibly and build something awesome! (it would be nice if you would email me and let me know what you built with this template)
+Email me if you use this composition would be great to check out your work. Have fun learning QC and Origami
 
 
 ## Features
