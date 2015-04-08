@@ -8,6 +8,8 @@ Responsive collision detection example with 3D orientation controls for the prot
 
 Email me if you use this composition would be great to check out your work. Have fun learning QC and Origami
 
+Video example
+https://vimeo.com/124323243
 
 ## Features
 - Collision detection
