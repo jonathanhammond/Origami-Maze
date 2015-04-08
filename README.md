@@ -2,6 +2,8 @@
 Example of collisions and 3D device orientation
 ===========
 
+More example found at http://www.justaddmusicmedia.com/work/prototypes/
+
 Responsive collision detection example with 3D orientation controls for the prototyping tool Origami (by Facebook)
 
 My goal, by opensourcing this project, is to make it easier and faster for designers to start with a project that requires them to use the native iOS Tab Bar.
